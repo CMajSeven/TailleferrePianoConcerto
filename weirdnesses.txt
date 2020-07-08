@@ -1,0 +1,36 @@
+Abbreviations:
+FS = Full Score
+2P = 2 Piano Reduction
+MS = Manuscript
+
+Given discrepancies between the versions, 2P is favored for piano part and FS is favored for other parts.
+[Elements in brackets] and dashed lines are editorial (inferred from context or from FS/MS).
+
+Oboe: MS has part labeled for Clarinet in Bb, with Saxophone label crossed out.
+Bassoons: MS has 1 bassoon.
+Trumpet: MS has part for Trumpet in C.
+FS has many additional dynamic markings in comparison to MS.
+
+Movement I
+----------------------------------------------
+Tempo Marking: FS has Vif (q = 144), MS has Allegro Moderato (no metronome marking, and 2P has Allegro (no metronome marking).
+Measure 10, Piano: The higher octave is not present in FS, but it is in 2P and MS.
+Measure 11, Trumpet: MS has different melody (written in as cues). Part excluded from 2P.
+Measure 13, Trumpet: No source has dynamic specified. Assumed from context.
+Measure 13, Timpani: Tacet here in MS.
+Measure 13, Piano: FS and MS have the F#5 eighth-note at beat 1, and a single F#6 sixteenth-note at beat 1.5. 2P has F#5 and F#6 sixteenth-note chord at beat 1.5. FS and MS have no accents. 2P is missing a # on the G in the left-hand voice. Cross-staff movement has been removed and replaced with clef changes by preference.
+Measure 17+, Oboe, Flute, Strings: Slurring pattern inconsistent between MS and FS.
+Measure 19, Piano: Bracketed Ds not in 2P.
+Measure 21, Piano: Inconsistency in the notes of the accented upstem chords. The accented chords in MS share the beam with the downstem melody. They are G3-D-G-A, A3-D-E-G-A, A3-D-C#-E-F-A, and A3-D-E-A. In FS, there are no accents. 
+Measure 22, Piano: Third left-hand chord is G-D-G instead of G-D-A in FS.
+Measure 23, Piano: First right-hand chord in MS is D-F#-D, in FS D-E-F#-D, in 2P D-F#-A-D. Beat 3, left hand has C#-E in MS and FS, has A-C# in 2P.
+Measure 25, Piano: Beat 1 has A-F# in FS, B-F# in MS and 2P. Beat 2 has E in FS, D in 2P and MS. Beat 3 has additional A3 in 2P.
+Measure 26, Piano:
+Measure 27, Piano: Cresc. only in 2P
+Measure 28, Piano:
+Measure 29, Piano: Only 2P has forte marking, and 8ba, and C# in beat 4.5.
+Measure 29-31, Woodwinds: Multiple Phrase Differences, 2P implies MS, recording plays FS
+Measure 34-35, Trumpet: Sixteenth notes slurred in MS
+Measure 34+, Strings: Different slurring
+Measure 36, Piano: FS has different LH chords
+Gave up looking for discrepancies, copy from 2P and FS
