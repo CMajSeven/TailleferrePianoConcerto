@@ -33,4 +33,13 @@ Measure 29-31, Woodwinds: Multiple Phrase Differences, 2P implies MS, recording 
 Measure 34-35, Trumpet: Sixteenth notes slurred in MS
 Measure 34+, Strings: Different slurring
 Measure 36, Piano: FS has different LH chords
-Gave up looking for discrepancies, copy from 2P and FS
+
+Gave up specifically looking for discrepancies, copy from 2P and FS, unless something seemed suspicious
+
+Movement II
+------------------------------------------
+Measure 20: MS and FS have lowest LH note in downbeats as all C#4, 2P has D4s there. Recording has C#4s.
+
+Movement III
+------------------------------------------
+Sections 7 and 20: Disagreements on Concert Gb vs G and Concert Ab vs A for trumpet solos. I have chosen FS's accidentals.
