@@ -17,9 +17,11 @@ General
 I-9: The lower part of the accompaniment in 2P does not correspond to anything in FS or MS.
 I-15: Reducing dynamic from p to pp to make room for p at 16 and to match 2P and 115.
 I-36,37*: 2P accompaniment upper part corresponds to manuscript Violin II part at 36. 37 corresponds to nothing in FS or MS. Lower part corresponds to MS Cellos and Basses.
+I-39: Cédez un peu only in FS
 I-93: An f from each of the dynamics is crossed out in FS, making it 1 level lower than 2P.
 I-100: Adding fff found only in 2P
 I-101: Moving all dynamics to beat 1.5 to be more climactic
+II: Second hand q=42 in FS
 II-39: Rall is at beat 1 in FS, beat 2 in 2P.
 III-17: The melody in the second half of this measure in 2P is only in the MS Violin I part. (Removal from FS seems intentional)
 III-57: Using (p) in place of p that has been placed on some parts seemingly arbitrarily.
@@ -64,15 +66,18 @@ I-88: Slurs leading into next system but no corresponding slur on next system.
 I-104: Adding staccatos
 II-3,4: Trailing slur at end of measure 3, but slur does not lead from previous system at measure 4 in FS. Slur only over measure 4 in MS.
 III-1-3*: 2P accompaniment top line specifies "Cors" and corresponds to horn parts in MS only. Sim. 173
+III-31,32: Changing articulation to match other parts. No accent at 31.1, and staccato instead of accent at 32.4 originally.
+III-37: Some accents on beat 4 missing seem to be missing.
 III-195,196: Split trill unlikely to be intended
 
 Trumpet
 -------
 I-58: Last sixteenth has natural on E instead of flat in FS
 I-107: Slur between A and D unlikely to be intended. Similar section at measure 6 does not have a slur.
+I-120: Adding accent like Violins I.
 III-60.3: Concert G in FS and 2P, Gb in MS.
 III-75-79: This part has been crossed out in FS. Is still present in MS and 2P.
-III-106.6: Concert Gb in FS, flat seems drawn in second hand. G in 2P and MS,. G fits context better
+III-106.6: Concert Gb in FS, flat seems drawn in second hand. G in 2P and MS. G fits context better
 III-107: Concert G in FS and MS, Gb in 2P. G fits context better
 III-108: Concert Ab in FS, flat seems drawn in second hand. A in 2P and MS. A fits context better.
 III-131: Concert F# in FS should be E.
@@ -149,7 +154,7 @@ II-12,13: Crescendo is at measure 12 in 2P for piano and accompaniment. Crescend
 II-18: f in 2P below the accompaniment at ff. ff in FS above the accompaniment at f.
 II-23: Lower note of FS is E2, likely an error instead of C#3.
 II-24: Missing lower octave of C in FS
-II-27: pp in 2P with mp accompaniment. p in FS, orchestra at p. pp seems more appropriate to allow for orchestra decrescendo into 31
+II-27: pp in 2P with mp accompaniment. p in FS, orchestra at p. pp seems more appropriate to allow for oboe decrescendo from p into 31
 II-27: Missing natural on F in 2P and MS in RH
 II-29.3: The RH in FS has quarter A3 and E4 with sole D4 at 3.5. 2P and MS have A+E -> A+D as eighth notes. The D is FS seems like a written-in correction, so these eighth notes were probably mistakenly left out.
 II-33-34: Dynamics only in 2P. They are placed below both voices but it seems illogical for it to apply to the LH pattern, since it is unison with the flute that has no crescendo.
@@ -204,6 +209,7 @@ III-168-169: Measures are empty (no rests) in FS. Likely the chords were mistake
 III-173: mp in 2P, mf at beat 3 in FS. Accent in FS and MS missing in 2P.
 III-189: No E4 in FS
 III-189-195: Dynamics only in 2P
+III-191: D6 in FS. Likely an error as 2P and MS have C#. Also C# in FS at measure 19.
 III-197: f in 2P, ff in FS
 III-199: En4s in 2P. Eb4s in FS. MS is illegible. Violas have En4. Similar measure at 27 has En in all.
 III-203: The second half of the measure is a third higher in FS matching MS. However, similar measure 30 has FS matching 2P with MS a third higher. It seems likely this was a change only partially carried through.
@@ -215,6 +221,7 @@ I-2: Adding staccatos based on similar part at 102 and 2P version
 III-27.5: Adding accent based on similar sections
 III-41.5: FS has D and F#. Likely should just be F# based on similar sections.
 III-105: FS has Eb instead of E whereas 2P and MS have E explicitly marked natural. Flat in FS appears to have been added afterwards. See Oboe and Piano.
+III-99: Adding staccato like Violins II and Violas
 III-106: Missing flat on Ab based on 2P and context
 
 Violins II
@@ -223,6 +230,7 @@ I-4.4.5: Last 2 sixteenth notes are just 8th note C in 2P
 I-40: The notes are in different voices, but div. is not explictly written.
 I-56,57: Normalizing articulation with Violas
 III-27.5: Adding accent based on similar sections
+III-41.5: Both D and F# noteheads in 2P. Based on MS and context, F# only is correct.
 III-106.4: 2P has Gb here instead of G, but horns have D (concert G)
 III-203: Last 2 notes have accents instead of staccatos
 
@@ -230,6 +238,7 @@ Violas
 ------
 III-8: *2nd chord has G+D, likely supposed to be A+D
 III-35-41, 207-214: Trill split at each measure. Likely supposed to be continuous trill
+III-175.3: Based on measure 3 and MS, this C# should be D
 III-179: Marked div. but seems unlikely. The similar section at 7 is not marked div. with brackets suggesting non div. In addition after the system break at 181, there is a bracket suggesting non div.
 III-196: Trailing slur, but no leading slur on next system. Next set of notes is slurred, so slur unlikely
 III-214: Half note instead of dotted quarter note
@@ -240,6 +249,7 @@ I-5,6,105,106*: It is worth nothing the discrepancies at beat 4. FS has Bs at 5,
 I-100: Adding accent on last note
 II-35: These is a slur over these notes in the MS and 2P but not in FS.
 III-76: The chord should potentially be on beat 4 instead of 5 like the surrounding measures, but the writing in FS shows no sign it may be an error. This section is not included in 2P and the section in MS is too dissimilar to be any indication.
+III-211-213: Adding accents as in previous measures
 
 Basses
 ------
@@ -249,6 +259,7 @@ III-44: Adding accent based on surroundings
 III-49: Adding col legno like other strings and like 97
 III-179-183: Adding stacactos
 III-187: Adding accent based on surroundings
+III-213: Adding accents as in previous measures
 
 Movement I
 ----------------------------------------------
