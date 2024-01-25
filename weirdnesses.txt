@@ -1,303 +1,305 @@
 Abbreviations:
-FS = Full Score
+OS = Orchestral Score
 2P = 2 Piano Reduction
 MS = Manuscript
+AD = Adagio
 
-Given discrepancies between the versions, 2P is favored for piano part and FS is favored for other parts. Due to significant differences from 2P and FS, MS is not given much editorial weight.
+Given discrepancies between the versions, 2P is favored for piano part and OS is favored for other parts. Due to significant differences from 2P and OS, MS is not given much editorial weight.
 Miscellaneous dynamic and beaming adjustments are made for consistency.
-[Elements in brackets] and dashed lines are editorial (inferred from context or from FS/MS).
+[Elements in brackets] and dashed lines are editorial (inferred from context or from OS/MS).
 
 Oboe: MS has part labeled for Clarinet in Bb, with Saxophone label crossed out.
 Bassoons: MS has 1 bassoon.
 Trumpet: MS has part for Trumpet in C.
-FS has many additional dynamic markings in comparison to MS.
+OS has many additional dynamic markings in comparison to MS.
 
 General
 -------
-I-9: The lower part of the accompaniment in 2P does not correspond to anything in FS or MS.
-I-15: Reducing dynamic from p to pp to make room for p at 16 and to match 2P and 115.
-I-36,37*: 2P accompaniment upper part corresponds to manuscript Violin II part at 36. 37 corresponds to nothing in FS or MS. Lower part corresponds to MS Cellos and Basses.
-I-39: Cédez un peu only in FS
-I-93: An f from each of the dynamics is crossed out in FS, making it 1 level lower than 2P.
-I-100: Adding fff found only in 2P
-I-101: Moving all dynamics to beat 1.5 to be more climactic
-II: Second hand q=42 in FS
-II-39: Rall is at beat 1 in FS, beat 2 in 2P.
-III-17: The melody in the second half of this measure in 2P is only in the MS Violin I part. (Removal from FS seems intentional)
-III-56: poco riten. in FS, rit. in 2P.
-III-57: Using (p) in place of p that has been placed on some parts seemingly arbitrarily.
-III-57: a Tempo only in 2P
-III-104: poco riten. in FS, rit. in 2P.
-III-111.3: Respelling D# major to Eb major
-III-179: The accompaniment melody is marked with Htb. in 2P when the melody is played by Violins II in FS (Saxophone/Oboe in MS).
-III-214: The final note is a held fermata quarter note in FS, that seems to have been changed from an eighth note. It is an eighth note without fermata in 2P. It is a fermata dotted quarter note in MS.
+I.9: The lower part of the accompaniment in 2P does not correspond to anything in OS or MS.
+I.15: Reducing dynamic from p to pp to make room for p at 16 and to match 2P and 115.
+I.36,37*: 2P accompaniment upper part corresponds to manuscript Violin II part at 36. 37 corresponds to nothing in OS or MS. Lower part corresponds to MS Cellos and Basses.
+I.39: Cédez un peu only in OS
+I.93: An f from each of the dynamics is crossed out in OS, making it 1 level lower than 2P.
+I.100: Adding fff found only in 2P
+I.101: Moving all dynamics to beat 1.5 to be more climactic
+II: Second hand q=42 in OS
+II.39: Rall is at beat 1 in OS, beat 2 in 2P.
+III.17: The melody in the second half of this measure in 2P is only in the MS Violin I part. (Removal from OS seems intentional)
+III.56: poco riten. in OS, rit. in 2P.
+III.57: Using (p) in place of p that has been placed on some parts seemingly arbitrarily.
+III.57: a Tempo only in 2P
+III.104: poco riten. in OS, rit. in 2P.
+III.111.3: Respelling D# major to Eb major
+III.179: The accompaniment melody is marked with Htb. in 2P when the melody is played by Violins II in OS (Saxophone/Oboe in MS).
+III.214: The final note is a held fermata quarter note in OS, that seems to have been changed from an eighth note. It is an eighth note without fermata in 2P. It is a fermata dotted quarter note in MS.
 
 Flutes
 ------
-I-3, 103: Trill extends over sixteenth note on beat 3 in FS, but seems unlikely to be intended because of lack of tie. Trill does not extend to this note in MS, and at 49
-I-10: Flute 1 has no explicit mf, assuming from Flute 2
-I-22.4.5, 122.4.5: Flute I has D in FS, C# in MS
-I-23-34*: 2P largely corresponds to the manuscript here, not FS. See Oboe and Bassoon.
-I-53: Hairpin is before this group of notes in FS, under the group of notes in MS.
-I-113,114: Making beaming consistent with 13/MS.
-III-28: Similar run at 200 has Eb marked. It seems likely that C and F should be naturals.
-III-91: Slur extends to end of system, but no leading slur in next system
-III-205,206: Trills are split at 206 in FS, continuous in MS. Combined with missing natural on C for Flute 2 in FS at 206, trills likely intended to be continuous.
+I.3, 103: Trill extends over sixteenth note on beat 3 in OS, but seems unlikely to be intended because of lack of tie. Trill does not extend to this note in MS, and at 49
+I.10: Flute 1 has no explicit mf, assuming from Flute 2
+I.22.4.5, 122.4.5: Flute I has D in OS, C# in MS
+I.23-34*: 2P largely corresponds to the manuscript here, not OS. See Oboe and Bassoon.
+I.53: Hairpin is before this group of notes in OS, under the group of notes in MS.
+I.113,114: Making beaming consistent with 13/MS.
+III.28: Similar run at 200 has Eb marked. It seems likely that C and F should be naturals.
+III.91: Slur extends to end of system, but no leading slur in next system
+III.205,206: Trills are split at 206 in OS, continuous in MS. Combined with missing natural on C for Flute 2 in OS at 206, trills likely intended to be continuous.
 
 Oboe
 ----
-I-23-34*: 2P largely corresponds to the manuscript here, not FS. See Flute and Bassoon.
-I-81: Moving mf from start of measure to beat 2 where the G starts.
-I-112,113: Trill split unlikely to be intended, continuous in MS
-III-12: f has added in second hand in FS. Should likely be ff like other parts. ff in MS.
-III-35.5, 207.5: C#s maybe should be Ds. Ds in MS. Similar line not found in 2P.
-III-105: FS has Eb instead of E whereas 2P and MS have E explicitly marked natural. Flat in FS appears to have been added afterwards. See Piano and Violins I.
-III-207.5: C# should likely be D. D in MS
+I.23-34*: 2P largely corresponds to the manuscript here, not OS. See Flute and Bassoon.
+I.81: Moving mf from start of measure to beat 2 where the G starts.
+I.112,113: Trill split unlikely to be intended, continuous in MS
+III.12: f has added in second hand in OS. Should likely be ff like other parts. ff in MS.
+III.30.6: F likely missing. It is present in MS and at 202.
+III.35.5, 207.5: C#s maybe should be Ds. Ds in MS. Similar line not found in 2P.
+III.105: OS has Eb instead of E whereas 2P and MS have E explicitly marked natural. Flat in OS appears to have been added afterwards. See Piano and Violins I.
+III.207.5: C# should likely be D. D in MS
 
 Bassoons
 --------
-I-6*: It is worth nothing the discrepancies at beats 2 and 4. FS has As at 6.2, 106.2, and 106.4; B at 6.4. 2P has As at 6.2, and 6.4; Bs at 106.2, and 106.4. MS has As at all 4 places. See Cellos also
-I-23-34*: 2P largely corresponds to the manuscript here, not FS. Bassoon solo only in MS and 2P. See Flute and Oboe.
-I-71-73*: 2P accompaniment lower part corresponds to a bassoon solo only in MS.
-I-119: Changing f to ff to balance with low strings.
-III-2: Staccato that no other part has and which is not elsewhere in the bassoon part
-III-18: F# is erroneously E in FS
+I.6*: It is worth nothing the discrepancies at beats 2 and 4. OS has As at 6.2, 106.2, and 106.4; B at 6.4. 2P has As at 6.2, and 6.4; Bs at 106.2, and 106.4. MS has As at all 4 places. See Cellos also
+I.23-34*: 2P largely corresponds to the manuscript here, not OS. Bassoon solo only in MS and 2P. See Flute and Oboe.
+I.71-73*: 2P accompaniment lower part corresponds to a bassoon solo only in MS.
+I.119: Changing f to ff to balance with low strings.
+III.2: Staccato that no other part has and which is not elsewhere in the bassoon part
+III.18: F# is erroneously E in OS
 
 Horns
 -----
-I-88: Slurs leading into next system but no corresponding slur on next system.
-I-104: Adding staccatos
-II-3,4: Trailing slur at end of measure 3, but slur does not lead from previous system at measure 4 in FS. Slur only over measure 4 in MS.
-III-1-3*: 2P accompaniment top line specifies "Cors" and corresponds to horn parts in MS only. Sim. 173
-III-31,32: Changing articulation to match other parts. No accent at 31.1, and staccato instead of accent at 32.4 originally.
-III-37: Some accents on beat 4 missing seem to be missing.
-III-195,196: Split trill unlikely to be intended
+I.88: Slurs leading into next system but no corresponding slur on next system.
+I.104: Adding staccatos
+II.3,4: Trailing slur at end of measure 3, but slur does not lead from previous system at measure 4 in OS. Slur only over measure 4 in MS.
+III.1-3*: 2P accompaniment top line specifies "Cors" and corresponds to horn parts in MS only. Sim. 173
+III.31,32: Changing articulation to match other parts. No accent at 31.1, and staccato instead of accent at 32.4 originally.
+III.37: Some accents on beat 4 missing seem to be missing.
+III.195,196: Split trill unlikely to be intended
 
 Trumpet
 -------
-I-58: Last sixteenth has natural on E instead of flat in FS
-I-107: Slur between A and D unlikely to be intended. Similar section at measure 6 does not have a slur.
-I-120: Adding accent like Violins I.
-III-60.3: Concert G in FS and 2P, Gb in MS.
-III-75-79: This part has been crossed out in FS. Is still present in MS and 2P.
-III-106.6: Concert Gb in FS, flat seems drawn in second hand. G in 2P and MS. G fits context better
-III-107: Concert G in FS and MS, Gb in 2P. G fits context better
-III-108: Concert Ab in FS, flat seems drawn in second hand. A in 2P and MS. A fits context better.
-III-131: Concert F# in FS should be E.
-III-131: See Timpani
-III-171: Adding accent
-III-214: Written a step too high
+I.58: Last sixteenth has natural on E instead of flat in OS
+I.107: Slur between A and D unlikely to be intended. Similar section at measure 6 does not have a slur.
+I.120: Adding accent like Violins I.
+III.60.3: Concert G in OS and 2P, Gb in MS.
+III.75-79: This part has been crossed out in OS. Is still present in MS and 2P.
+III.106.6: Concert Gb in OS, flat seems drawn in second hand. G in 2P and MS. G fits context better
+III.107: Concert G in OS and MS, Gb in 2P. G fits context better
+III.108: Concert Ab in OS, flat seems drawn in second hand. A in 2P and MS. A fits context better.
+III.131: Concert F# in OS should be E.
+III.131: See Timpani
+III.171: Adding accent
+III.214: Written a step too high
 
 Timpani
 -------
-I-9: Accent missing in FS. Present in MS
-III-131: The hairpin here is aligned with the Trumpet dynamic but it seems more logically applied to Timpani.
+I.9: Accent missing in OS. Present in MS
+III.131: The hairpin here is aligned with the Trumpet dynamic but it seems more logically applied to Timpani.
 
 Piano
 -----
-I-3: Only instance where trilled note is tied to the following 16th in 2P. Deleting tie
-I-6: Upper D sixteenth notes are in MS and FS, but not 2P.
-I-6-13: Dynamics only in FS
-I-10: The higher octave is not present in FS, but it is in 2P and MS.
-I-11-13: dynamics only in FS
-I-13: FS and MS have the F#5 eighth-note at beat 1, and a single F#6 sixteenth-note at beat 1.5. 2P has F#5 and F#6 sixteenth-note chord at beat 1.5. FS and MS have no accents. 2P is missing a # on the G in the left-hand voice.
-I-13.4: # on G# missing in 2P
-I-15: 2P marked at pp, FS marked at p level with the strings
-I-15-17: 2P doesn't have cresc. until 17.3.5
-I-18: Last Gs have #s in FS. Based on similar section at 118 and 2P and FS, these are errors, and they should be G naturals.
-I-19: Top Ds in LH chords are in FS and MS but not in 2P. Beat 4.5 and G-F sixteenth notes in 2P and MS but not in FS. Beat 4.5 A eighth note only in 2P.
-I-21.1.5: G3 in FS, A3 in 2P and MS. Similar section at 121 has A3, so this is likely an error.
-I-21.2.5: FS missing A4. It is present at 121
-I-25.1: Lowest note of LH chord is A in FS. Likely an error as it is B in 2P and MS
-I-25.2: RH E in FS is likely an error. Both 2P and MS have D.
-I-27: Hairpin only in 2P
-I-27.4: G# in FS and MS where 2P has A.
-I-28: Last 2 eighth notes at beat 4 in MS and FS, at beat 3.5 in 2P
-I-29: 8va bassa only in 2P. f only in 2P l.v. ties only in MS.
-I-30.3: C#3 in LH chord only in FS and MS.
-I-31: Lowest C#1 of LH chord only in 2P
-I-31: Hairpin only in 2P
-I-32.2.5: D in FS is likely an error. Both 2P and MS have C#
-I-32.4: LH chord only in 2P
-I-33: pp only in FS and MS. Hairpin only in FS.
-I-34: f at beat 1 in FS, at 1.5 in 2P. Other instruments f at beat 1.5
-I-35: Last RH eighth note in 2P is the continutation of the sixteenth note pattern in FS and MS.
-I-38.2: Flat missing on Eb in FS.
-I-39,40: Decrescendo only in FS. pp only in 2P
-I-40-42: Upper octave of LH only in 2P
-I-42.2.5: Lower note of LH is F in FS. Both 2P and MS have G. Due to similar nearby chords with lower note G in FS, this is likely an error despite the explicit natural.
-I-47: p only in 2P, but this matches the dynamics of orchestra in FS
-I-53.2.5: 2P has an f here but it seems out of place.
-I-55-57: Dynamics only in 2P
-I-65.4.5: Top note A4 of LH chord missing in FS. It appears to have been added as a correction in MS
-I-67: In FS, there is a duplicate A5 between LH and RH. In MS the LH A5 was crossed out for C#5. Therefore, it seems this is an error. C#6 is present in both FS and MS, but not 2P.
-I-70.4.5: C# is dotted quarter note without reiterated eighth note in FS and MS
-I-71: p in FS, pp in FS
-I-71.3.75: G missing in FS. Likely an error as it is in 2P and MS
-I-72: FS missing natural on F
-I-75: B only in 2P
-I-79: pp only in 2P
-I-84.2-85.1: LH has F#4s in 2P and MS; and G4s in FS. Perhaps an overcorrection in FS to be an octave below RH.
-I-85: pp in FS. p in 2P
-I-89.1.75: This is marked as D# in 2P, but D with explicit natural in FS and MS. Flutes play D natural nearby
-I-92: Hairpin only in FS
-I-92.4.5: Missing natural on B in FS
-I-94.2.75: A instead of F in LH 2P. This is likely an error based on nearby patterns.
-I-95, 97: 8va bassa only in 2P
-I-95: Last Eb missing flat in FS
-I-97.3: Missing in FS. Present in 2P and MS
-I-113: f only in 2P at beat 1.5. Moving to beat 1 like at measure 13
-I-119: ff only in 2P. This is level with orchestra in FS
-I-119: FS is missing the D at 1.5. Only MS has the D at 4.5
-I-121: Using the same voice-note distribution as 21
-I-121.3.5: FS missing E. It is present at 21
-II-8: mf only in 2P marked below f accompaniment. Orchestra melody plays mp in FS.
-II-12.3: FS missing E
-II-12,13: Crescendo is at measure 12 in 2P for piano and accompaniment. Crescendo is at measure 13 in FS. Using only FS crescendo
-II-18: f in 2P below the accompaniment at ff. ff in FS above the accompaniment at f.
-II-23: Lower note of FS is E2, likely an error instead of C#3.
-II-25-26: Decrescendo over the 2 measures in 2P only over last beat of 26 in FS. Changing to be even with orchestra descrescendos in FS
-II-27: pp in 2P with mp accompaniment. p in FS, orchestra at p. pp seems more appropriate to allow for oboe decrescendo from p into 31
-II-27: Missing natural on F in 2P and MS in RH
-II-28: The FABC chord in 2P is seemingly an error. Compare to adjacent chord, and the chord as in FS, MS, and Adagio (the reduction for violin and piano). However, it seems to be the extant way this is played, and the other 3 sources are more aligned with each other than 2P in this section.
-II-29.3: The RH in FS has quarter A3 and E4 with sole D4 at 3.5. 2P and MS have A+E -> A+D as eighth notes. The D is FS seems like a written-in correction, so these eighth notes were probably mistakenly left out.
-II-33-34: Dynamics only in 2P. They are placed below both voices but it seems illogical for it to apply to the LH pattern, since it is unison with the flute that has no crescendo.
-III-1,4,5: The quarter notes in 2P and MS are written as eighths in FS
-III-7: 2nd half of measure for LH is missing in 2P. See 179.
-III-8: mf only in FS
-III-11: ff only in 2P
-III-15: f only in 2P	
-III-16.5: The E in the LH chord is a D in MS as in the previous measure
-III-17: p only in 2P
-III-17: # on G# LH missing in FS
-III-19-21: Dynamics only in FS
-III-23: cresc only in 2P
-III-25: f in 2P, ff is FS
-III-29: ff only in FS
-III-34: Natural missing on C in 2P
-III-38,39: FS has inconsistenties in the pattern, likely mistakes. D4+C#5 instead of D4 at 38.1.5, 39.1.5, and 39.3.5. C#5 instead of D4 at 38.3.5.
-III-44.4: Quarter note in 2P, eighth note in FS and MS
-III-49: No dynamic in FS. 2P has pp at same level as accompaniment. Using p to match orchestra.
-III-50-51: Dynamics only in FS
-III-51.3: Natural on C missing in 2P
-III-52.3: FS has C5 where 2P and MS have A4, likely an error
-III-52.6: FS has LH duplicated into RH 8va staff, likely an error. Missing natural on F on LH staff
-III-53-54: Missing middle octaves probably errors.
-III-53.5-54: FS written an octave too high. (2P has 8va bassa on a treble clef to show the correct octave)
-III-57: No dynamic in FS. 2P has pp at same level as accompaniment. Using p to match orchestra.
-III-61: FS has Eb whereas 2P and MS have E explicitly marked natural. E matches horns and Violins II.
-III-61-79: Dynamics only in 2P. Balancing them with FS orchestra dynamics
-III-71: The trill starts at beat 4 in FS, beat 2 in 2P
-III-74: Natural on F missing in FS.
-III-74: A4 instead of G4 in FS and MS. Based on general motivic shapes, it is likely an error in 2P.
-III-79.6: Additional G4 in FS and MS. MS additionally has a D4 here. Based on similar measure at 17, these should both be included.
-III-80.1: Additional E3 in FS and MS. Based on similar measure 18, it is likely an error in 2P.
-III-80.6: A4 instead of G4 in FS and MS. Based on similar measure 18, it is likely an error in 2P.
-III-83.6: Natural missing on F in FS.
-III-86.6.5: Should likely be Cn instead of C# but no source has a natural on this note.
-III-91.5: Just a quarter note in FS LH. Likely an error based on similar measures
-III-92.5: E missing in FS RH. Likely an error based on similar measures
-III-97: G(n)s in FS, G#s in 2P. MS has G(n)s but also D(n)s instead of D#s.
-III-98.3.5: Marked F natural in FS, but no accidental in 2P or MS, so this is likely an error.
-III-99: The RH triad is Cn+E+Gn in 2P, Cn+E#+G in FS, Cn+E+G# in MS. Based on context, MS is correct.
-III-101: Dynamic only in 2P
-III-101-102: Compared to 2P, MS is missing octave starting with G4 from 101.5-102.1; FS is missing the octave starting with G5 from 101.5 to 102.6.
-III-105: Dynamic only in 2P
-III-105: FS has Eb whereas 2P and MS E explicitly marked natural. Flat in FS appears to have been added afterwards. See Oboe and Violins I.
-III-106.5: G4 in FS and MS, F4 in 2P. Violins II have F4 and similar measure at 58 is in unison with Violins II so G4 is likely an error.
-III-111: All parallel major chords in FS and MS. No # on E on beat 1, F marked natural on beat 2, and no # on A on beat 3 breaks this pattern in 2P, so these are likely errors.
-III-114: F and middle voice missing in second half of measure in FS, which are in 2P and MS.
-III-123: Lowest note in RH in FS should likely be B instead of A based on 2P and MS.
-III-132: RH staff in FS missing 8va line.
-III-133,134: Based on missing natural on C at beat 134.3 in 2P, an C with a natural at 134.1 was likely intended. No Cs in LH in MS. No Cs in measure 134 in LH in FS.
-III-133-171: Numerous differences in cadenza
-III-161.2: Flat is written on D instead of Bb
-III-166-167: The beam splits here in 2P just seem to be because MS split the beam to save writing with an 8va line.
-III-168-169: Measures are empty (no rests) in FS. Likely the chords were mistakenly left out
-III-173: mp in 2P, mf at beat 3 in FS. Accent in FS and MS missing in 2P.
-III-181.6: FS has F# instead of G
-III-189: No E4 in FS
-III-189-195: Dynamics only in 2P
-III-191: D6 in FS. Likely an error as 2P and MS have C#. Also C# in FS at measure 19.
-III-197: f in 2P, ff in FS
-III-199: En4s in 2P. Eb4s in FS. MS is illegible. Violas have En4. Similar measure at 27 has En in all.
-III-203: The second half of the measure is a third higher in FS matching MS. However, similar measure 30 has FS matching 2P with MS a third higher. It seems likely this was a change only partially carried through.
-III-207.3: D4 missing in FS.
+I.3: Only instance where trilled note is tied to the following 16th in 2P. Deleting tie
+I.6: Upper D sixteenth notes are in MS and OS, but not 2P.
+I.6-13: Dynamics only in OS
+I.10: The higher octave is not present in OS, but it is in 2P and MS.
+I.11-13: dynamics only in OS
+I.13: OS and MS have the F#5 eighth-note at beat 1, and a single F#6 sixteenth-note at beat 1.5. 2P has F#5 and F#6 sixteenth-note chord at beat 1.5. OS and MS have no accents. 2P is missing a # on the G in the left-hand voice.
+I.13.4: # on G# missing in 2P
+I.15: 2P marked at pp, OS marked at p level with the strings
+I.15-17: 2P doesn't have cresc. until 17.3.5
+I.18: Last Gs have #s in OS. Based on similar section at 118 and 2P and OS, these are errors, and they should be G naturals.
+I.19: Top Ds in LH chords are in OS and MS but not in 2P. Beat 4.5 and G-F sixteenth notes in 2P and MS but not in OS. Beat 4.5 A eighth note only in 2P.
+I.21.1.5: G3 in OS, A3 in 2P and MS. Similar section at 121 has A3, so this is likely an error.
+I.21.2.5: OS missing A4. It is present at 121
+I.25.1: Lowest note of LH chord is A in OS. Likely an error as it is B in 2P and MS
+I.25.2: RH E in OS is likely an error. Both 2P and MS have D.
+I.27: Hairpin only in 2P
+I.27.4: G# in OS and MS where 2P has A.
+I.28: Last 2 eighth notes at beat 4 in MS and OS, at beat 3.5 in 2P
+I.29: 8va bassa only in 2P. f only in 2P l.v. ties only in MS.
+I.30.3: C#3 in LH chord only in OS and MS.
+I.31: Lowest C#1 of LH chord only in 2P
+I.31: Hairpin only in 2P
+I.32.2.5: D in OS is likely an error. Both 2P and MS have C#
+I.32.4: LH chord only in 2P
+I.33: pp only in OS and MS. Hairpin only in OS.
+I.34: f at beat 1 in OS, at 1.5 in 2P. Other instruments f at beat 1.5
+I.35: Last RH eighth note in 2P is the continutation of the sixteenth note pattern in OS and MS.
+I.38.2: Flat missing on Eb in OS.
+I.39,40: Decrescendo only in OS. pp only in 2P
+I.40-42: Upper octave of LH only in 2P
+I.42.2.5: Lower note of LH is F in OS. Both 2P and MS have G. Due to similar nearby chords with lower note G in OS, this is likely an error despite the explicit natural.
+I.47: p only in 2P, but this matches the dynamics of orchestra in OS
+I.53.2.5: 2P has an f here but it seems out of place.
+I.55-57: Dynamics only in 2P
+I.65.4.5: Top note A4 of LH chord missing in OS. It appears to have been added as a correction in MS
+I.67: In OS, there is a duplicate A5 between LH and RH. In MS the LH A5 was crossed out for C#5. Therefore, it seems this is an error. C#6 is present in both OS and MS, but not 2P.
+I.70.4.5: C# is dotted quarter note without reiterated eighth note in OS and MS
+I.71: p in OS, pp in OS
+I.71.3.75: G missing in OS. Likely an error as it is in 2P and MS
+I.72: OS missing natural on F
+I.75: B only in 2P
+I.79: pp only in 2P
+I.84.2-85.1: LH has F#4s in 2P and MS; and G4s in OS. Perhaps an overcorrection in OS to be an octave below RH.
+I.85: pp in OS. p in 2P
+I.89.1.75: This is marked as D# in 2P, but D with explicit natural in OS and MS. Flutes play D natural nearby
+I.92: Hairpin only in OS
+I.92.4.5: Missing natural on B in OS
+I.94.2.75: A instead of F in LH 2P. This is likely an error based on nearby patterns.
+I.95, 97: 8va bassa only in 2P
+I.95: Last Eb missing flat in OS
+I.97.3: Missing in OS. Present in 2P and MS
+I.113: f only in 2P at beat 1.5. Moving to beat 1 like at measure 13
+I.119: ff only in 2P. This is level with orchestra in OS
+I.119: OS is missing the D at 1.5. Only MS has the D at 4.5
+I.121: Using the same voice-note distribution as 21
+I.121.3.5: OS missing E. It is present at 21
+II.8: mf only in 2P marked below f accompaniment. Orchestra melody plays mp in OS.
+II.12.3: OS missing E
+II.12,13: Crescendo is at measure 12 in 2P for piano and accompaniment. Crescendo is at measure 13 in OS. Using only OS crescendo
+II.18: f in 2P below the accompaniment at ff. ff in OS above the accompaniment at f.
+II.23: Lower note of OS is E2, likely an error instead of C#3.
+II.25-26: Decrescendo over the 2 measures in 2P only over last beat of 26 in OS. Changing to be even with orchestra descrescendos in OS
+II.27: pp in 2P with mp accompaniment. p in OS, orchestra at p. pp seems more appropriate to allow for oboe decrescendo from p into 31
+II.27: Missing natural on F in 2P and MS in RH
+II.28: The FABC chord in 2P is seemingly an error. Compare to adjacent chord, and the chord as in OS, MS, and Adagio (the reduction for violin and piano). However, it seems to be the extant way this is played, and the other 3 sources are more aligned with each other than 2P in this section.
+II.29.3: The RH in OS has quarter A3 and E4 with sole D4 at 3.5. 2P and MS have A+E -> A+D as eighth notes. The D is OS seems like a written-in correction, so these eighth notes were probably mistakenly left out.
+II.33-34: Dynamics only in 2P. They are placed below both voices but it seems illogical for it to apply to the LH pattern, since it is unison with the flute that has no crescendo.
+III.1,4,5: The quarter notes in 2P and MS are written as eighths in OS
+III.7: 2nd half of measure for LH is missing in 2P. See 179.
+III.8: mf only in OS
+III.11: ff only in 2P
+III.15: f only in 2P	
+III.16.5: The E in the LH chord is a D in MS as in the previous measure
+III.17: p only in 2P
+III.17: # on G# LH missing in OS
+III.19-21: Dynamics only in OS
+III.23: cresc only in 2P
+III.25: f in 2P, ff is OS
+III.29: ff only in OS
+III.34: Natural missing on C in 2P
+III.38,39: OS has inconsistenties in the pattern, likely mistakes. D4+C#5 instead of D4 at 38.1.5, 39.1.5, and 39.3.5. C#5 instead of D4 at 38.3.5.
+III.44.4: Quarter note in 2P, eighth note in OS and MS
+III.49: No dynamic in OS. 2P has pp at same level as accompaniment. Using p to match orchestra.
+III.50-51: Dynamics only in OS
+III.51.3: Natural on C missing in 2P
+III.52.3: OS has C5 where 2P and MS have A4, likely an error
+III.52.6: OS has LH duplicated into RH 8va staff, likely an error. Missing natural on F on LH staff
+III.53-54: Missing middle octaves probably errors.
+III.53.5-54: OS written an octave too high. (2P has 8va bassa on a treble clef to show the correct octave)
+III.57: No dynamic in OS. 2P has pp at same level as accompaniment. Using p to match orchestra.
+III.61: OS has Eb whereas 2P and MS have E explicitly marked natural. E matches horns and Violins II.
+III.61-79: Dynamics only in 2P. Balancing them with OS orchestra dynamics
+III.71: The trill starts at beat 4 in OS, beat 2 in 2P
+III.74: Natural on F missing in OS.
+III.74: A4 instead of G4 in OS and MS. Based on general motivic shapes, it is likely an error in 2P.
+III.79.6: Additional G4 in OS and MS. MS additionally has a D4 here. Based on similar measure at 17, these should both be included.
+III.80.1: Additional E3 in OS and MS. Based on similar measure 18, it is likely an error in 2P.
+III.80.6: A4 instead of G4 in OS and MS. Based on similar measure 18, it is likely an error in 2P.
+III.83.6: Natural missing on F in OS.
+III.86.6.5: Should likely be Cn instead of C# but no source has a natural on this note.
+III.91.5: Just a quarter note in OS LH. Likely an error based on similar measures
+III.92.5: E missing in OS RH. Likely an error based on similar measures
+III.97: G(n)s in OS, G#s in 2P. MS has G(n)s but also D(n)s instead of D#s.
+III.98.3.5: Marked F natural in OS, but no accidental in 2P or MS, so this is likely an error.
+III.99: The RH triad is Cn+E+Gn in 2P, Cn+E#+G in OS, Cn+E+G# in MS. Based on context, MS is correct.
+III.101: Dynamic only in 2P
+III.101-102: Compared to 2P, MS is missing octave starting with G4 from 101.5-102.1; OS is missing the octave starting with G5 from 101.5 to 102.6.
+III.105: Dynamic only in 2P
+III.105: OS has Eb whereas 2P and MS E explicitly marked natural. Flat in OS appears to have been added afterwards. See Oboe and Violins I.
+III.106.5: G4 in OS and MS, F4 in 2P. Violins II have F4 and similar measure at 58 is in unison with Violins II so G4 is likely an error.
+III.111: All parallel major chords in OS and MS. No # on E on beat 1, F marked natural on beat 2, and no # on A on beat 3 breaks this pattern in 2P, so these are likely errors.
+III.114: F and middle voice missing in second half of measure in OS, which are in 2P and MS.
+III.123: Lowest note in RH in OS should likely be B instead of A based on 2P and MS.
+III.132: RH staff in OS missing 8va line.
+III.133,134: Based on missing natural on C at beat 134.3 in 2P, an C with a natural at 134.1 was likely intended. No Cs in LH in MS. No Cs in measure 134 in LH in OS.
+III.133-171: Numerous differences in cadenza
+III.161.2: Flat is written on D instead of Bb
+III.166-167: The beam splits here in 2P just seem to be because MS split the beam to save writing with an 8va line.
+III.168-169: Measures are empty (no rests) in OS. Likely the chords were mistakenly left out
+III.173: mp in 2P, mf at beat 3 in OS. Accent in OS and MS missing in 2P.
+III.181.6: OS has F# instead of G
+III.189: No E4 in OS
+III.189-195: Dynamics only in 2P
+III.191: D6 in OS. Likely an error as 2P and MS have C#. Also C# in OS at measure 19.
+III.197: f in 2P, ff in OS
+III.199: En4s in 2P. Eb4s in OS. MS is illegible. Violas have En4. Similar measure at 27 has En in all.
+III.203: The second half of the measure is a third higher in OS matching MS. However, similar measure 30 has OS matching 2P with MS a third higher. It seems likely this was a change only partially carried through.
+III.207.3: D4 missing in OS.
 
 Violins I
 ---------
-I-2: Adding staccatos based on similar part at 102 and 2P version
-III-27.5: Adding accent based on similar sections
-III-41.5: FS has D and F#. Likely should just be F# based on similar sections.
-III-105: FS has Eb instead of E whereas 2P and MS have E explicitly marked natural. Flat in FS appears to have been added afterwards. See Oboe and Piano.
-III-99: Adding staccato like Violins II and Violas
-III-106: Missing flat on Ab based on 2P and context
+I.2: Adding staccatos based on similar part at 102 and 2P version
+III.27.5: Adding accent based on similar sections
+III.41.5: OS has D and F#. Likely should just be F# based on similar sections.
+III.105: OS has Eb instead of E whereas 2P and MS have E explicitly marked natural. Flat in OS appears to have been added afterwards. See Oboe and Piano.
+III.99: Adding staccato like Violins II and Violas
+III.106: Missing flat on Ab based on 2P and context
 
 Violins II
 ----------
-I-4.4.5: Last 2 sixteenth notes are just 8th note C in 2P
-I-40: The notes are in different voices, but div. is not explictly written.
-I-56,57: Normalizing articulation with Violas
-III-27.5: Adding accent based on similar sections
-III-41.5: Both D and F# noteheads in 2P. Based on MS and context, F# only is correct.
-III-106.4: 2P has Gb here instead of G, but horns have D (concert G)
-III-203: Last 2 notes have accents instead of staccatos
+I.4.4.5: Last 2 sixteenth notes are just 8th note C in 2P
+I.40: The notes are in different voices, but div. is not explictly written.
+I.56,57: Normalizing articulation with Violas
+III.27.5: Adding accent based on similar sections
+III.41.5: Both D and F# noteheads in 2P. Based on MS and context, F# only is correct.
+III.106.4: 2P has Gb here instead of G, but horns have D (concert G)
+III.203: Last 2 notes have accents instead of staccatos
 
 Violas
 ------
-III-8: *2nd chord has G+D, likely supposed to be A+D
-III-35-41, 207-214: Trill split at each measure. Likely supposed to be continuous trill
-III-175.3: Based on measure 3 and MS, this C# should be D
-III-179: Marked div. but seems unlikely. The similar section at 7 is not marked div. with brackets suggesting non div. In addition after the system break at 181, there is a bracket suggesting non div.
-III-196: Trailing slur, but no leading slur on next system. Next set of notes is slurred, so slur unlikely
-III-214: Half note instead of dotted quarter note
+III.8: *2nd chord has G+D, likely supposed to be A+D
+III.35-41, 207-214: Trill split at each measure. Likely supposed to be continuous trill
+III.175.3: Based on measure 3 and MS, this C# should be D
+III.179: Marked div. but seems unlikely. The similar section at 7 is not marked div. with brackets suggesting non div. In addition after the system break at 181, there is a bracket suggesting non div.
+III.196: Trailing slur, but no leading slur on next system. Next set of notes is slurred, so slur unlikely
+III.214: Half note instead of dotted quarter note
 
 Cellos
 ------
-I-5,6,105,106*: It is worth nothing the discrepancies at beat 4. FS has Bs at 5,6, and As at 105,106. 2P has As at 5,6, and Bs at 105,106. MS has Bs at all 4 places. See Bassoons also
-I-100: Adding accent on last note
-II-35: These is a slur over these notes in the MS and 2P but not in FS.
-III-76: The chord should potentially be on beat 4 instead of 5 like the surrounding measures, but the writing in FS shows no sign it may be an error. This section is not included in 2P and the section in MS is too dissimilar to be any indication.
-III-211-213: Adding accents as in previous measures
+I.5,6,105,106*: It is worth nothing the discrepancies at beat 4. OS has Bs at 5,6, and As at 105,106. 2P has As at 5,6, and Bs at 105,106. MS has Bs at all 4 places. See Bassoons also
+I.100: Adding accent on last note
+II.35: These is a slur over these notes in the MS and 2P but not in OS.
+III.76: The chord should potentially be on beat 4 instead of 5 like the surrounding measures, but the writing in OS shows no sign it may be an error. This section is not included in 2P and the section in MS is too dissimilar to be any indication.
+III.211-213: Adding accents as in previous measures
 
 Basses
 ------
-I-100: Adding accent on last note
-II-35: These is a slur over these notes in the MS and 2P but not in FS.
-III-44: Adding accent based on surroundings
-III-49: Adding col legno like other strings and like 97
-III-179-183: Adding stacactos
-III-187: Adding accent based on surroundings
-III-213: Adding accents as in previous measures
+I.100: Adding accent on last note
+II.35: These is a slur over these notes in the MS and 2P but not in OS.
+III.44: Adding accent based on surroundings
+III.49: Adding col legno like other strings and like 97
+III.179-183: Adding stacactos
+III.187: Adding accent based on surroundings
+III.213: Adding accents as in previous measures
 
 Movement I
 ----------------------------------------------
-Tempo Marking: FS has Vif (q = 144), MS has Allegro Moderato (no metronome marking), and 2P has Allegro (no metronome marking).
+Tempo Marking: OS has Vif (q = 144), MS has Allegro Moderato (no metronome marking), and 2P has Allegro (no metronome marking).
 3, Flute, Piano: 
 Measure 11, Trumpet: MS has different melody. Part excluded from 2P.
 Measure 13, Trumpet: No source has dynamic specified. Assumed from context.
 Measure 13, Timpani: Tacet here in MS.
 Measure 13, Piano:  Cross-staff movement has been removed and replaced with clef changes by preference.
-Measure 17+, Oboe, Flute, Strings: Slurring pattern inconsistent between MS and FS.
+Measure 17+, Oboe, Flute, Strings: Slurring pattern inconsistent between MS and OS.
 Measure 19, Piano: Bracketed Ds not in 2P.
-Measure 21, Piano: Inconsistency in the notes of the accented upstem chords. The accented chords in MS share the beam with the downstem melody. They are G3-D-G-A, A3-D-E-G-A, A3-D-C#-E-F-A, and A3-D-E-A. In FS, there are no accents. 
-Measure 22, Piano: Third left-hand chord is G-D-G in 2P instead of G-D-A in FS and MS.
-Measure 23, Piano: First right-hand chord in MS is D-F#-D, in FS D-E-F#-D, in 2P D-F#-A-D. Beat 3, left hand has C#-E in MS and FS, has A-C# in 2P.
-Measure 25, Piano: Beat 1 has A-F# in FS, B-F# in MS and 2P. Beat 2 has E in FS, D in 2P and MS. Beat 3 has additional A3 in 2P.
+Measure 21, Piano: Inconsistency in the notes of the accented upstem chords. The accented chords in MS share the beam with the downstem melody. They are G3-D-G-A, A3-D-E-G-A, A3-D-C#-E-F-A, and A3-D-E-A. In OS, there are no accents. 
+Measure 22, Piano: Third left-hand chord is G-D-G in 2P instead of G-D-A in OS and MS.
+Measure 23, Piano: First right-hand chord in MS is D-F#-D, in OS D-E-F#-D, in 2P D-F#-A-D. Beat 3, left hand has C#-E in MS and OS, has A-C# in 2P.
+Measure 25, Piano: Beat 1 has A-F# in OS, B-F# in MS and 2P. Beat 2 has E in OS, D in 2P and MS. Beat 3 has additional A3 in 2P.
 Measure 26, Piano:
 Measure 27, Piano: Cresc. only in 2P
 Measure 28, Piano:
 Measure 29, Piano: Only 2P has forte marking, and 8ba, and C# in beat 4.5.
-Measure 29-31, Woodwinds: Multiple Phrase Differences, 2P implies MS, recording plays FS
+Measure 29-31, Woodwinds: Multiple Phrase Differences, 2P implies MS, recording plays OS
 Measure 34-35, Trumpet: Sixteenth notes slurred in MS
 Measure 34+, Strings: Different slurring
-Measure 36, Piano: FS has different LH chords
+Measure 36, Piano: OS has different LH chords
 
-Gave up specifically looking for discrepancies, copy from 2P and FS, unless something seemed suspicious
+Gave up specifically looking for discrepancies, copy from 2P and OS, unless something seemed suspicious
 
 Movement II
 ------------------------------------------
-Measure 20: MS and FS have lowest LH note in downbeats as all C#4, 2P has D4s there. Recording has C#4s.
+Measure 20: MS and OS have lowest LH note in downbeats as all C#4, 2P has D4s there. Recording has C#4s.
 
 Movement III
 ------------------------------------------
