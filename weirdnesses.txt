@@ -67,6 +67,7 @@ III.18: F# is erroneously E in OS
 
 Horns
 -----
+I.11: Last note that is B in OS should be C# based on MS and measure 111 in OS.
 I.88: Slurs leading into next system but no corresponding slur on next system.
 I.104: Adding staccatos
 II.3,4: Trailing slur at end of measure 3, but slur does not lead from previous system at measure 4 in OS. Slur only over measure 4 in MS.
@@ -189,6 +190,7 @@ III.53.5-54: OS written an octave too high. (2P has 8va bassa on a treble clef t
 III.57: No dynamic in OS. 2P has pp at same level as accompaniment. Using p to match orchestra.
 III.61: OS has Eb whereas 2P and MS have E explicitly marked natural. E matches horns and Violins II.
 III.61-79: Dynamics only in 2P. Balancing them with OS orchestra dynamics
+III.68: Beat 4 LH chord should likely have Bb instead of B, as in previous measures. Neither 2P nor OS has a b though. (B is not present in MS.)
 III.71: The trill starts at beat 4 in OS, beat 2 in 2P
 III.74: Natural on F missing in OS.
 III.74: A4 instead of G4 in OS and MS. Based on general motivic shapes, it is likely an error in 2P.
@@ -209,6 +211,7 @@ III.105: OS has Eb whereas 2P and MS E explicitly marked natural. Flat in OS app
 III.106.5: G4 in OS and MS, F4 in 2P. Violins II have F4 and similar measure at 58 is in unison with Violins II so G4 is likely an error.
 III.111: All parallel major chords in OS and MS. No # on E on beat 1, F marked natural on beat 2, and no # on A on beat 3 breaks this pattern in 2P, so these are likely errors.
 III.114: F and middle voice missing in second half of measure in OS, which are in 2P and MS.
+III.119: The trill is on the C in MS, instead of on the G as in 2P and OS, forming a continuous trill on with the LH C in the following measures.
 III.123: Lowest note in RH in OS should likely be B instead of A based on 2P and MS.
 III.132: RH staff in OS missing 8va line.
 III.133,134: Based on missing natural on C at beat 134.3 in 2P, an C with a natural at 134.1 was likely intended. No Cs in LH in MS. No Cs in measure 134 in LH in OS.
@@ -247,8 +250,11 @@ III.203: Last 2 notes have accents instead of staccatos
 
 Violas
 ------
+I.57: Gs in OS where 2P and MS have G#.
 III.8: *2nd chord has G+D, likely supposed to be A+D
 III.35-41, 207-214: Trill split at each measure. Likely supposed to be continuous trill
+III.75: Adding staccatos to last 2 notes like Flute 1 and Violins II at 77.
+III.76: A slur over the last 2 notes seems to have been erased and replaced with staccatos. This is inconsistent with Flute 1 and Violins II at 78.
 III.175.3: Based on measure 3 and MS, this C# should be D
 III.179: Marked div. but seems unlikely. The similar section at 7 is not marked div. with brackets suggesting non div. In addition after the system break at 181, there is a bracket suggesting non div.
 III.196: Trailing slur, but no leading slur on next system. Next set of notes is slurred, so slur unlikely
@@ -268,7 +274,7 @@ I.100: Adding accent on last note
 II.35: These is a slur over these notes in the MS and 2P but not in OS.
 III.44: Adding accent based on surroundings
 III.49: Adding col legno like other strings and like 97
-III.179-183: Adding stacactos
+III.179-183: Adding staccatos
 III.187: Adding accent based on surroundings
 III.213: Adding accents as in previous measures
 
